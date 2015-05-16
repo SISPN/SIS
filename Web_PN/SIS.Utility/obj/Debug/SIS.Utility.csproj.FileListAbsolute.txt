@@ -1,0 +1,5 @@
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Utility\bin\Debug\SIS.Utility.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Utility\bin\Debug\SIS.Utility.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Utility\obj\Debug\SIS.Utility.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Utility\obj\Debug\SIS.Utility.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Utility\obj\Debug\SIS.Utility.csprojResolveAssemblyReference.cache

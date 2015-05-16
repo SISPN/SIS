@@ -1,0 +1,4 @@
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Utility\bin\Release\SIS.Utility.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Utility\bin\Release\SIS.Utility.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Utility\obj\Release\SIS.Utility.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Utility\obj\Release\SIS.Utility.pdb

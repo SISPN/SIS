@@ -1,0 +1,11 @@
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\bin\Release\SIS.Data.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\bin\Release\SIS.Data.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\bin\Release\SIS.Entity.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\bin\Release\SIS.Utility.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\bin\Release\SIS.Entity.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\bin\Release\SIS.Utility.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\obj\Release\SIS.Data.csprojResolveAssemblyReference.cache
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\obj\Release\SIS.Data.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Data\obj\Release\SIS.Data.pdb

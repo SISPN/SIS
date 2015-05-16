@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2013-09-09T11:56:10.5914274+05:30</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>C:\Users\PramukhParth\Desktop\Update_12.05.2015\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>02/07/2012 22:03:50</publishTime>
+    </File>
+    <File Include="Account/AdminPanel.aspx">
+      <publishTime>01/17/2015 19:25:04</publishTime>
+    </File>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>12/31/2014 18:01:03</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>02/07/2012 22:03:50</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>05/02/2015 12:58:39</publishTime>
+    </File>
+    <File Include="Account/Menu.aspx">
+      <publishTime>01/18/2015 18:50:26</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>02/06/2015 19:25:05</publishTime>
+    </File>
+    <File Include="Account/UnLockUser.aspx">
+      <publishTime>02/07/2012 22:03:50</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>01/17/2015 15:59:17</publishTime>
+    </File>
+    <File Include="Admin/AddLookDetail.aspx">
+      <publishTime>02/07/2012 22:03:50</publishTime>
+    </File>
+    <File Include="Admin/AttandanceSabha.aspx">
+      <publishTime>03/15/2012 22:32:56</publishTime>
+    </File>
+    <File Include="Admin/AttandanceSabhaBulk.aspx">
+      <publishTime>09/21/2013 16:58:01</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/12/2010 11:10:28</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:28</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:28</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:28</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:28</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:30</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:30</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:30</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:30</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:30</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>12/29/2010 20:03:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>12/29/2010 20:03:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ObjectBuilder2.dll">
+      <publishTime>12/29/2010 20:03:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>12/29/2010 20:03:36</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:30</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:30</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:30</publishTime>
+    </File>
+    <File Include="bin/SIS.Data.dll">
+      <publishTime>05/12/2015 23:44:24</publishTime>
+    </File>
+    <File Include="bin/SIS.Data.pdb">
+      <publishTime>09/09/2013 11:53:38</publishTime>
+    </File>
+    <File Include="bin/SIS.dll">
+      <publishTime>05/12/2015 23:44:26</publishTime>
+    </File>
+    <File Include="bin/SIS.Entity.dll">
+      <publishTime>05/12/2015 23:44:24</publishTime>
+    </File>
+    <File Include="bin/SIS.Entity.pdb">
+      <publishTime>09/09/2013 11:53:37</publishTime>
+    </File>
+    <File Include="bin/SIS.pdb">
+      <publishTime>09/09/2013 11:53:41</publishTime>
+    </File>
+    <File Include="bin/SIS.Services.dll">
+      <publishTime>05/12/2015 23:44:24</publishTime>
+    </File>
+    <File Include="bin/SIS.Services.pdb">
+      <publishTime>09/09/2013 11:53:38</publishTime>
+    </File>
+    <File Include="bin/SIS.Utility.dll">
+      <publishTime>05/08/2015 18:28:00</publishTime>
+    </File>
+    <File Include="bin/SIS.Utility.pdb">
+      <publishTime>09/09/2013 11:53:33</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>07/11/2012 02:22:12</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/09/2013 11:04:28</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>07/11/2012 02:22:12</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:32</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:32</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 11:10:32</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/07/2012 22:03:50</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/07/2012 22:03:50</publishTime>
+    </File>
+    <File Include="HelperClass/MultiCheckCombo.ascx">
+      <publishTime>03/30/2015 19:25:35</publishTime>
+    </File>
+    <File Include="Images/AlreadyExists.jpg">
+      <publishTime>08/10/2011 22:47:44</publishTime>
+    </File>
+    <File Include="Images/calendar.gif">
+      <publishTime>06/04/2011 13:49:26</publishTime>
+    </File>
+    <File Include="Images/Calendar_scheduleHS.png">
+      <publishTime>05/11/2010 10:56:14</publishTime>
+    </File>
+    <File Include="Images/demo-config-on-tile.gif">
+      <publishTime>06/04/2011 13:49:26</publishTime>
+    </File>
+    <File Include="Images/demo-config-on.gif">
+      <publishTime>06/04/2011 13:49:26</publishTime>
+    </File>
+    <File Include="Images/demo-spindown-closed.gif">
+      <publishTime>06/04/2011 13:49:26</publishTime>
+    </File>
+    <File Include="Images/demo-spindown-open.gif">
+      <publishTime>06/04/2011 13:49:26</publishTime>
+    </File>
+    <File Include="Images/Download.aspx.jpg">
+      <publishTime>03/31/2015 20:02:43</publishTime>
+    </File>
+    <File Include="Images/harrow.gif">
+      <publishTime>06/15/2011 23:39:54</publishTime>
+    </File>
+    <File Include="Images/homepage.jpg">
+      <publishTime>09/03/2011 23:51:04</publishTime>
+    </File>
+    <File Include="Images/icon-docs-info.gif">
+      <publishTime>06/04/2011 13:49:26</publishTime>
+    </File>
+    <File Include="Images/images.png">
+      <publishTime>09/21/2013 16:36:34</publishTime>
+    </File>
+    <File Include="Images/needupdate.png">
+      <publishTime>09/21/2013 16:38:25</publishTime>
+    </File>
+    <File Include="Images/pbar-ani.gif">
+      <publishTime>06/04/2011 13:49:26</publishTime>
+    </File>
+    <File Include="Images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-icons_222222_256x240.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-icons_2e83ff_256x240.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-icons_454545_256x240.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-icons_888888_256x240.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>06/04/2011 13:52:20</publishTime>
+    </File>
+    <File Include="Images/uploading.gif">
+      <publishTime>05/11/2010 10:56:12</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/03/2015 10:30:35</publishTime>
+    </File>
+    <File Include="Pages/AnkutSevaEntry.aspx">
+      <publishTime>05/10/2015 11:56:19</publishTime>
+    </File>
+    <File Include="Pages/AnkutSevaEntrySNR.aspx">
+      <publishTime>08/30/2014 23:09:00</publishTime>
+    </File>
+    <File Include="Pages/AnkutSevaEntrySNRDID.aspx">
+      <publishTime>09/07/2014 16:32:07</publishTime>
+    </File>
+    <File Include="Pages/BulkUpload.aspx">
+      <publishTime>05/10/2015 11:56:38</publishTime>
+    </File>
+    <File Include="Pages/ContactList.aspx">
+      <publishTime>05/03/2015 09:57:31</publishTime>
+    </File>
+    <File Include="Pages/DownloadFile.aspx">
+      <publishTime>12/24/2014 19:32:41</publishTime>
+    </File>
+    <File Include="Pages/EditAnkutDetail.aspx">
+      <publishTime>05/10/2015 11:57:06</publishTime>
+    </File>
+    <File Include="Pages/FamilyMember.aspx">
+      <publishTime>05/12/2015 23:44:09</publishTime>
+    </File>
+    <File Include="Pages/Home.aspx">
+      <publishTime>03/31/2015 20:04:13</publishTime>
+    </File>
+    <File Include="Pages/MainPerson.aspx">
+      <publishTime>05/12/2015 23:16:46</publishTime>
+    </File>
+    <File Include="Pages/Search.aspx">
+      <publishTime>05/12/2015 23:13:35</publishTime>
+    </File>
+    <File Include="Pages/SearchAnkutDetail.aspx">
+      <publishTime>05/10/2015 11:57:50</publishTime>
+    </File>
+    <File Include="Pages/SevaEntry.aspx">
+      <publishTime>05/03/2015 09:58:22</publishTime>
+    </File>
+    <File Include="Pages/SevakDetail.aspx">
+      <publishTime>05/10/2015 12:02:16</publishTime>
+    </File>
+    <File Include="Pages/SMS.aspx">
+      <publishTime>05/03/2015 09:58:41</publishTime>
+    </File>
+    <File Include="Pages/UpdatePerson.aspx">
+      <publishTime>05/12/2015 23:21:25</publishTime>
+    </File>
+    <File Include="Pages/ViewFile.aspx">
+      <publishTime>05/10/2015 11:55:57</publishTime>
+    </File>
+    <File Include="Pages/VolunterDetail.aspx">
+      <publishTime>05/10/2015 11:58:38</publishTime>
+    </File>
+    <File Include="Pages/YearlySevaEntry.aspx">
+      <publishTime>03/23/2013 06:44:50</publishTime>
+    </File>
+    <File Include="ReportPages/AnakutList.aspx">
+      <publishTime>05/10/2015 11:58:54</publishTime>
+    </File>
+    <File Include="ReportPages/AnkutListAtoZ.aspx">
+      <publishTime>05/10/2015 11:59:02</publishTime>
+    </File>
+    <File Include="ReportPages/AnkutSantPadharamni.aspx">
+      <publishTime>05/10/2015 11:59:11</publishTime>
+    </File>
+    <File Include="ReportPages/AnkutSevaLable.aspx">
+      <publishTime>05/10/2015 11:59:18</publishTime>
+    </File>
+    <File Include="ReportPages/AnkutVolList.aspx">
+      <publishTime>05/10/2015 11:59:31</publishTime>
+    </File>
+    <File Include="ReportPages/AreaWise.aspx">
+      <publishTime>05/10/2015 10:49:16</publishTime>
+    </File>
+    <File Include="ReportPages/ContactList.aspx">
+      <publishTime>05/10/2015 11:59:41</publishTime>
+    </File>
+    <File Include="ReportPages/PrintLable.aspx">
+      <publishTime>05/10/2015 11:59:48</publishTime>
+    </File>
+    <File Include="ReportPages/SevaList.aspx">
+      <publishTime>05/10/2015 12:02:09</publishTime>
+    </File>
+    <File Include="Reports/AnakutList.aspx">
+      <publishTime>12/20/2014 17:30:24</publishTime>
+    </File>
+    <File Include="Reports/AnkutListAtoZ.aspx">
+      <publishTime>09/17/2014 04:31:31</publishTime>
+    </File>
+    <File Include="Reports/AnkutSantPadharamni.aspx">
+      <publishTime>09/18/2014 03:09:07</publishTime>
+    </File>
+    <File Include="Reports/AnkutSevakList.aspx">
+      <publishTime>08/02/2014 12:21:44</publishTime>
+    </File>
+    <File Include="Reports/AnkutSevaLable.aspx">
+      <publishTime>09/17/2014 22:48:13</publishTime>
+    </File>
+    <File Include="Reports/AnkutVolList.aspx">
+      <publishTime>09/16/2014 03:22:54</publishTime>
+    </File>
+    <File Include="Reports/AreaWise.aspx">
+      <publishTime>09/18/2014 03:09:45</publishTime>
+    </File>
+    <File Include="Reports/Birthday.aspx">
+      <publishTime>06/28/2014 06:00:47</publishTime>
+    </File>
+    <File Include="Reports/BirthdayColumnWise.aspx">
+      <publishTime>06/28/2014 06:00:52</publishTime>
+    </File>
+    <File Include="Reports/BloodGroupWise.aspx">
+      <publishTime>06/28/2014 06:00:58</publishTime>
+    </File>
+    <File Include="Reports/CityWise.aspx">
+      <publishTime>06/28/2014 06:01:04</publishTime>
+    </File>
+    <File Include="Reports/FlagDetail.aspx">
+      <publishTime>06/28/2014 06:01:09</publishTime>
+    </File>
+    <File Include="Reports/FrequentlyUpdateAddressList.aspx">
+      <publishTime>06/28/2014 06:01:15</publishTime>
+    </File>
+    <File Include="Reports/FrequentlyUpdateList.aspx">
+      <publishTime>06/28/2014 06:01:26</publishTime>
+    </File>
+    <File Include="Reports/JobStatus.aspx">
+      <publishTime>06/28/2014 06:01:21</publishTime>
+    </File>
+    <File Include="Reports/OccupationWise.aspx">
+      <publishTime>06/28/2014 06:01:31</publishTime>
+    </File>
+    <File Include="Reports/PhotoReport.aspx">
+      <publishTime>06/28/2014 06:01:37</publishTime>
+    </File>
+    <File Include="Reports/PrintLable.aspx">
+      <publishTime>09/16/2014 03:55:37</publishTime>
+    </File>
+    <File Include="Reports/YearlyList.aspx">
+      <publishTime>06/28/2014 06:02:08</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>05/02/2015 15:54:52</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>05/02/2015 15:54:52</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap/css/bootstrap-responsive.css">
+      <publishTime>07/26/2013 23:50:48</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap/css/bootstrap-responsive.min.css">
+      <publishTime>07/26/2013 23:50:48</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap/css/bootstrap.css">
+      <publishTime>07/26/2013 23:50:46</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap/css/bootstrap.min.css">
+      <publishTime>07/26/2013 23:50:46</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap/css/Signin.css">
+      <publishTime>05/01/2015 16:52:18</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap/img/glyphicons-halflings-white.png">
+      <publishTime>07/26/2013 23:50:46</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap/img/glyphicons-halflings.png">
+      <publishTime>07/26/2013 23:50:46</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap/js/bootstrap.js">
+      <publishTime>07/26/2013 23:50:48</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap/js/bootstrap.min.js">
+      <publishTime>07/26/2013 23:50:48</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>01/30/2010 18:43:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.1.min.js">
+      <publishTime>06/04/2011 13:16:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>05/02/2015 15:54:39</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>05/02/2015 15:54:39</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>05/02/2015 15:54:39</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.core.js">
+      <publishTime>06/04/2011 13:19:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.datepicker-en-GB.js">
+      <publishTime>06/11/2011 16:47:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.datepicker.js">
+      <publishTime>06/11/2011 18:42:48</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.widget.js">
+      <publishTime>06/04/2011 13:24:44</publishTime>
+    </File>
+    <File Include="Scripts/MainPage.js">
+      <publishTime>12/15/2011 00:21:30</publishTime>
+    </File>
+    <File Include="Scripts/npm.js">
+      <publishTime>05/02/2015 15:54:52</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>05/12/2015 21:48:24</publishTime>
+    </File>
+    <File Include="Styles/demos.css">
+      <publishTime>06/12/2011 16:06:04</publishTime>
+    </File>
+    <File Include="Styles/jquery.ui.all.css">
+      <publishTime>06/04/2011 13:28:18</publishTime>
+    </File>
+    <File Include="Styles/jquery.ui.base.css">
+      <publishTime>06/04/2011 13:42:12</publishTime>
+    </File>
+    <File Include="Styles/jquery.ui.datepicker.css">
+      <publishTime>06/06/2011 21:27:08</publishTime>
+    </File>
+    <File Include="Styles/jquery.ui.theme.css">
+      <publishTime>02/07/2012 22:03:48</publishTime>
+    </File>
+    <File Include="Styles/jquery.ui.theme.zip">
+      <publishTime>04/30/2015 23:57:46</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>05/12/2015 21:44:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/12/2015 23:44:34</publishTime>
+    </File>
+    <File Include="WebServices/AutoComplete.asmx">
+      <publishTime>10/15/2014 19:15:32</publishTime>
+    </File>
+    <File Include="WebServices/GeomatryDetail.asmx">
+      <publishTime>02/07/2012 22:03:48</publishTime>
+    </File>
+    <File Include="WebServices/XetraMandal.asmx">
+      <publishTime>02/07/2012 22:03:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

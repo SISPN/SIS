@@ -1,0 +1,13 @@
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\obj\Debug\SIS.Services.csprojResolveAssemblyReference.cache
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\SIS.Services.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\SIS.Services.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\SIS.Data.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\SIS.Entity.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\SIS.Utility.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\SIS.Data.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\SIS.Entity.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\bin\Debug\SIS.Utility.pdb
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\obj\Debug\SIS.Services.dll
+E:\Projects\SIS\Source\Source_PN\Web_PN\SIS.Services\obj\Debug\SIS.Services.pdb
